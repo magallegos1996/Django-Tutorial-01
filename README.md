@@ -10,3 +10,12 @@
  cd root
  The execute the following command
  py -m venv env
+ cd env
+ cd Scripts
+ activate.bat
+cd ..
+cd ..
+pip install -r requirements.txt
+cd mysite
+py manage.py makemigrations
+py manage.py runserver
