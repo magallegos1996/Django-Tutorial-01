@@ -19,7 +19,7 @@ This will create a directory called  ```cd env```. Enter this directory using th
  ```sh
 $ cd env
 ```
-Next, execute the  ```sh activate.bat``` that is inside the ```Scripts```. Please, follow this steps.
+Next, execute the  ```activate.bat``` that is inside the ```Scripts```. Please, follow this steps.
  ```sh
 $ cd Scripts
 $ activate.bat
