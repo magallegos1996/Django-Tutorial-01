@@ -30,7 +30,7 @@ $ pip install -r requirements.txt
 ```
 At this point, you will be able to run the project. But first, you have to do some additional steps. 
 
-Place yourself into ```my site``` directory
+Place yourself into ```mysite``` directory
  ```sh
 $ cd mysite
 ```
