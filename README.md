@@ -46,4 +46,4 @@ And finally, run the server with the follwing command
  ```sh
 py manage.py runserver
 ```
-Open your browser and go to: http://localhost:8000/polls or http://localhost:8000/users
+Open your browser and go to: http://localhost:8000/polls/ or http://localhost:8000/admin/
