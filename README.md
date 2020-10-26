@@ -24,7 +24,7 @@ Next, execute the  ```activate.bat``` that is inside the ```Scripts``` directory
 $ cd Scripts
 $ activate.bat
 ```
-Now, you have to return to ```Django-Tutorial-01``` folder so you can install all the requirements needed in order to run this project. In order to do so, from the ```Django-Tutorial-01``` directory, execute this.
+Now, you have to return to ```Django-Tutorial-01``` folder so you can install all the requirements needed to run this project. In order to do so, from the ```Django-Tutorial-01``` directory, execute this.
  ```sh
 $ pip install -r requirements.txt
 ```
