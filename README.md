@@ -1,5 +1,5 @@
 # Django Tutorial 01
-### Based on: [Writing your first Django app Tutorial] (https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
+### Based on: [Writing your first Django app Tutorial](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
  
  ### How to run the the project
  
