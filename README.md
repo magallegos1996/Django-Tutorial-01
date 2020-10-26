@@ -15,7 +15,7 @@ Then execute the following command to create a python virtual environment
  ```sh
 $ py -m venv env
 ```
-This will create a directory called  ```sh cd env```. Enter this directory using the following command
+This will create a directory called  ```cd env```. Enter this directory using the following command
  ```sh
 $ cd env
 ```
