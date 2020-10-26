@@ -4,7 +4,7 @@
  ### How to run the the project
  
  First, clone this repository executing the following command:
-  ```sh
+ ```sh
 $ git clone https://github.com/magallegos1996/Django-Tutorial-01.git
 ```
 Once you've cloned this repo, please change to the root directory:
@@ -15,7 +15,7 @@ Then execute the following command to create a python virtual environment
  ```sh
 $ py -m venv env
 ```
-This will create a directory called  ```sh$ cd env```. Enter this directory using the following command
+This will create a directory called  ```sh cd env```. Enter this directory using the following command
  ```sh
 $ cd env
 ```
